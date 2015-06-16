@@ -1,5 +1,3 @@
-
-
 module Spree
   module Admin
     class CashOnDeliveryConfigsController < Spree::Admin::BaseController
